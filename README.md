@@ -13,9 +13,9 @@ En trois principes fondateurs et fédérateurs :
 ## Règles.
 
 1. Toujours numéroter une liste de règles, ça fait toujours plus sérieux.
-2. Ne jamais, JAMAIS, nommer de professeur au sein de cette maistreclasse. Préférez-lui un nom de véhicule Renault ou une référence de meuble IKEA, plus noble et raffiné - plus sérieusement 
-3. Ne pas envoyer de fichier qui n'a pas été réalisé par vous (en particulier si il s'agit d'un énoncé d'un de vos enseignants), sauf si ce dernier peut nous prouver son soutien le plus précieux (et nous serons exigeants). Cela exclut donc les énoncés, les templates, etc.
+2. Ne jamais utiliser le nom de l'école, ni d'une personne du corps enseignants ou du personnel administratif.
+3. Ne pas envoyer de fichier qui n'a pas été réalisé par vous. Cela exclut donc les énoncés, les templates, etc. Nous serons exigeants.
 
 ## Contradictions.
 
-*Est-ce que ça ne va pas favoriser la triche ?*
+euh
